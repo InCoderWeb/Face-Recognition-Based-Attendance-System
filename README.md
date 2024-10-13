@@ -1,3 +1,3 @@
-# One_Shot_Learning
+# Face Recognition Based Attendance System
 
-## Please refer the document attached to this repo
+This project aims to simplify and automate the attendance-taking process using facial recognition technology. By leveraging Python and AI, the system allows a teacher to capture a photo of the entire class. The system then identifies each student's face, matches it with pre-registered data, and marks their attendance automatically. The system stores this data in a database, and the attendance records can be easily downloaded in Excel format. This approach eliminates the need for manual attendance, reducing time consumption and human errors while ensuring accurate and efficient tracking of student presence.
